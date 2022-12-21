@@ -1,0 +1,22 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    ul {
+        list-style-type: none;
+    }
+    img {
+    max-width: 100%;
+    }
+    .container-header{
+        display: flex;
+        height: 100px;
+        background-color: aquamarine;
+    }
+    .row-header{
+        display: flex;
+        gap: 25px;
+      
+    }
+   
