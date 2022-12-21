@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Almarai&family=Fredoka+One&family=Space+Mono&display=swap');
 * {
-    margin: 0 auto;
+    margin: 0 ;
     padding: 0;
     box-sizing: border-box;
+    font-family: Almarai;
     }
     ul {
         list-style-type: none;
@@ -12,15 +13,14 @@
     }
     .container-header{
         display: flex;
-        height: 90px;
-       
+        height: 80px;
+        justify-content: space-between;
     }
     .row-header{
         display: flex;
         gap: 25px;
-        padding: 25px;
-        align-items: center;
-        font-family: Almarai;
+        padding: 25px ;
+        align-items: center;        
        }
    .bg-text{
     background-color: #0061FF;
@@ -31,3 +31,10 @@
     justify-content: center;
     color: white;
    }
+  .container-main-s1{
+    background-color: #B4D0E7;
+    height: 450px;
+    }
+    .col-img-main{
+        width: 450px;
+    }
