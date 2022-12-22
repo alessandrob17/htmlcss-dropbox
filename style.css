@@ -24,6 +24,7 @@
        }
        a{
         text-decoration: none;
+        color: currentColor;
        }
    .bg-text{
     background-color: #0061FF;
