@@ -74,3 +74,51 @@
    font-size: 45px;
    margin-top: 45px;
 }
+.section2{
+    min-height: 700px;
+    background-color:#B4D0E7;
+    display: flex;
+    justify-content: center;
+}
+.container2{
+    padding-top: 60px;
+}
+.col-2{
+    font-size: 21px;
+}
+.row-second{
+    display: flex;
+    gap: 150px;
+    padding-top: 45px;
+    font-size: 13px;
+}
+.inlineb{
+    display: inline-block ;
+    
+}
+.col-cards{
+    margin-top: 20px;
+    border: solid lightslategray;
+    padding: 10px 0px;
+    margin-right: 20px;
+    width: 250px    ;
+    height: 550px;
+    line-height: 30px;
+}
+.row-cards{
+    display: flex;
+}
+.col-cards-long{
+    padding-top: 10px;
+    padding-left: 13px;
+}
+.button-card{
+    background-color: #0061FF;
+    line-height: 45px;
+    text-align: center;
+    color: white;
+    margin-right: 15px;
+    font-size: 14px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
