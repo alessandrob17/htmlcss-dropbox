@@ -98,11 +98,12 @@
 .col-cards{
     margin-top: 20px;
     border: solid lightslategray;
-    padding: 10px 0px;
-    margin-right: 20px;
-    width: 250px    ;
-    height: 550px;
+    padding: 10px 10px;
+    margin-right: 0px;
+    width: 250px;
+    height: 700px;
     line-height: 30px;
+    
 }
 .row-cards{
     display: flex;
@@ -120,4 +121,34 @@
     font-size: 14px;
     margin-top: 30px;
     margin-bottom: 30px;
+}
+.container-card-3{
+    border: lightslategray solid;
+    min-height: 240px;
+    margin-top: 30px;
+}
+.margin-middle{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.col-cards3{
+    text-align: center;
+    padding: 10px;
+}
+.flex-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.card-link{
+    background-color: #0061FF;
+    height: 40px;
+    line-height: 43px;
+    width: 250px;
+    text-align: center;
+    color: white;
+}
+.row-card3{
+    margin: 0 30px;
 }
