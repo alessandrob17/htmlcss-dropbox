@@ -152,3 +152,21 @@
 .row-card3{
     margin: 0 30px;
 }
+.row-card4{
+    display: flex;
+    margin-top: 100px;
+}
+.ul-card4{
+    width: 220px; 
+    font-size: 18px; 
+    margin-left: 50px; 
+    margin-top: 35px;
+}
+.button-card4{
+    margin-top: 30px;
+    border: lightslategrey solid;
+    height: 45px;
+    text-align: center;
+    line-height: 42px;
+    width: 150px;
+}
