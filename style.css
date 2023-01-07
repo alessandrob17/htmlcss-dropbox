@@ -170,3 +170,33 @@
     line-height: 42px;
     width: 150px;
 }
+.col-footer{
+    display: flex;
+    color: white;
+padding-top: 100px;
+margin-left: 190px;
+margin-right: 190px;
+justify-content: center;
+line-height: 25px;
+justify-content: space-around;
+}
+.container-footer{
+    background-color: black;
+    min-height: 450px;
+}
+.font-footer{
+    font-size: 12px;
+    margin-top: 15px;
+}
+.box-question{
+    padding-top: 90px;
+    line-height: 60px;
+    min-height: 400px;
+}
+.fa-chevron-down{
+    margin-left: 280px;
+}
+.container-sect6{
+    background-color: #B4D0E7;
+    min-height: 350px;
+}
